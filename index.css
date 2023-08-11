@@ -16,21 +16,27 @@ body {
   flex-direction: row;
 }
 
-.DNA_cont {
-  position: fixed;
-  transform: scale(0.45);
-  rotate: 90deg;
-  background-color: aqua;
+.sidebar {
+  width: 30%;
   height: 100%;
 }
 
+.DNA_cont {
+  display: flex;
+  flex-direction: row; /* Stack nucleobases vertically */
+  align-items: center; /* Center nucleobases horizontally */
+  height: 100%; /* Take up full height of parent (sidebar) */
+  transform: scale(0.55);
+  rotate: 90deg;
+}
+
 .nucleobase {
-  display: inline-block;
   position: relative;
   vertical-align: middle;
-}
-.nucleobase:not(:last-child) {
-  margin-right: 16.2vh;
+  width: 10vh; /* Adjust as needed */
+  height: 10vh; /* Adjust as needed */
+  border-radius: 50%;
+  margin-right: 17vh; /* Spacing between nucleobases */
 }
 .nucleobase:before, .nucleobase:after {
   content: "";

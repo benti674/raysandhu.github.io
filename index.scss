@@ -1,6 +1,6 @@
 $b-height: 1.15em;
 $el-size: 10vh;
-$DNA_scale: 0.45; //divides '$el-size'
+$DNA_scale: 0.55; //divides '$el-size'
 $t: 15s;
 $td: -0.89;
 
@@ -27,26 +27,28 @@ body {
 	flex-direction: row;
 }
 
-.DNA_cont {
-	// display: inline-block;
-	position: fixed;
-	transform: scale($DNA_scale);
-	rotate: 90deg;
-	background-color: aqua;
+.sidebar {
+	width: 30%;
 	height: 100%;
 }
 
+.DNA_cont {
+	display: flex;
+	flex-direction: row; /* Stack nucleobases vertically */
+	align-items: center; /* Center nucleobases horizontally */
+	height: 100%; /* Take up full height of parent (sidebar) */
+	// position: fixed;
+	transform: scale($DNA_scale);
+	rotate: 90deg;
+}
+
 .nucleobase {
-	display: inline-block;
 	position: relative;
 	vertical-align: middle;
-	//  width: 1px; height: $el-size*2.75;
-	//  background: transparent;
-	//  box-shadow: $el-size*0.475 $el-size*-0.85 0 rgba(0,0,0,0.2);
-
-	&:not(:last-child) {
-		margin-right: $el-size * 1.62;
-	}
+	width: $el-size; /* Adjust as needed */
+	height: $el-size; /* Adjust as needed */
+	border-radius: 50%;
+	margin-right: $el-size * 1.7; /* Spacing between nucleobases */
 
 	&:before,
 	&:after {
@@ -55,7 +57,6 @@ body {
 		width: $el-size;
 		height: $el-size;
 		border-radius: 50%;
-
 		position: absolute;
 	}
 
@@ -64,17 +65,12 @@ body {
 			animation-delay: $i * ($td * $t);
 			&:before {
 				animation: animBefore $t $ease-circ infinite;
-
 				animation-delay: $i * ($td * $t);
-
 				background-color: nth($c_a, 1);
 			}
-
 			&:after {
 				animation: animAfter $t $ease-circ infinite;
-
 				animation-delay: $i * ($td * $t);
-
 				background-color: nth($c_a, 2);
 			}
 		}
