@@ -1,6 +1,6 @@
 $b-height: 1.15em;
 $el-size: 10vh;
-$DNA_scale: 0.55; //divides '$el-size'
+$DNA_scale: 0.45; //divides '$el-size'
 $t: 15s;
 $td: -0.89;
 
@@ -25,10 +25,18 @@ body {
 .page-layout {
 	display: flex;
 	flex-direction: row;
+	height: 100%;
 }
 
 .sidebar {
 	width: 30%;
+	height: 100%;
+	position: relative;
+	flex: 1;
+}
+
+.main-display {
+	width: 70%;
 	height: 100%;
 }
 
@@ -37,9 +45,9 @@ body {
 	flex-direction: row; /* Stack nucleobases vertically */
 	align-items: center; /* Center nucleobases horizontally */
 	height: 100%; /* Take up full height of parent (sidebar) */
-	// position: fixed;
 	transform: scale($DNA_scale);
 	rotate: 90deg;
+	width: 100%;
 }
 
 .nucleobase {
@@ -60,6 +68,10 @@ body {
 		position: absolute;
 	}
 
+	&:hover {
+		transform: scale(1.2); /* Enlarging effect on hover */
+	}
+
 	@for $i from 1 through 30 {
 		&:nth-child(#{$i}) {
 			animation-delay: $i * ($td * $t);
@@ -77,14 +89,8 @@ body {
 	}
 }
 
-.sidebar {
-	width: 30%;
-	height: 100%;
-}
-
-.main-display {
-	width: 70%;
-	height: 100%;
+.nucleobase.enlarge {
+	transform: scale(1.2);
 }
 
 @keyframes animBefore {
