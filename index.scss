@@ -19,29 +19,42 @@ body {
 	margin: 0;
 	padding: 0;
 	// line-height: 100vh;
-	background-color: nth($c_a, 3);
+	background-color: #d3d3d3;
+	font-family: 'Garamond', helvetica neue, helvetica, sans-serif;
 }
 
 .page-layout {
 	display: flex;
 	flex-direction: row;
-	height: 100vh;
+	height: 800vh;
 }
 
 .sidebar {
-	width: 30%;
+	width: 25%;
 	height: 100%;
 	position: relative;
 	flex: 1;
 }
 
+.vertical-navbar {
+	width: 15%;
+	// background-color: black;
+}
+
 .main-display {
 	display: flex;
-	flex-direction: row;
-	align-items: center;
-	justify-content: center;
-	width: 70%;
+	flex-direction: column;
+	width: 60%;
 	height: 100%;
+	padding-left: 5%;
+}
+
+.main-display-container {
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+	// align-items: center;
+	justify-content: center;
 }
 
 .DNA_cont {
@@ -166,18 +179,33 @@ body {
 }
 
 h1 {
-	font-family: 'Garamond', helvetica neue, helvetica, sans-serif;
 	height: 1em;
-	width: 100%;
-	left: 0.005em;
-	top: 7.85vh;
+	// width: 100%;
+	// left: 0.005em;
+	// top: 7.85vh;
 	// margin-bottom: 50px;
 	font-size: 10.85vh;
 	font-weight: 900;
-	letter-spacing: 0.0225em;
+	letter-spacing: 0.0425em;
 	opacity: 0.85;
 	color: nth($c2_a, 2);
 	transform: scale(1);
 
 	animation: superscript 1.6s cubic-bezier(0.25, 0, 0.2, 1) forwards;
+}
+
+h2 {
+	width: 100%;
+	left: 0.05em;
+	font-weight: 600;
+	letter-spacing: 0.0225em;
+	opacity: 0.85;
+	color: nth($c2_a, 2);
+	transform: scale(1);
+
+	animation: superscript 2.6s cubic-bezier(0.25, 0, 0.2, 1) forwards;
+}
+
+p {
+	animation: superscript 5.6s cubic-bezier(0.25, 0, 0.2, 1) forwards;
 }
