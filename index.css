@@ -44,8 +44,9 @@ body {
   display: flex;
   flex-direction: column;
   height: 100vh;
-  align-items: center;
+  align-items: start;
   justify-content: center;
+  padding-left: 2%;
 }
 
 .display-container-image {
@@ -476,6 +477,3516 @@ body {
   animation-delay: -400.5s;
   background-color: rgb(255, 115, 124);
 }
+.nucleobase:nth-child(31) {
+  animation-delay: -413.85s;
+}
+.nucleobase:nth-child(31):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -413.85s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(31):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -413.85s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(32) {
+  animation-delay: -427.2s;
+}
+.nucleobase:nth-child(32):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -427.2s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(32):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -427.2s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(33) {
+  animation-delay: -440.55s;
+}
+.nucleobase:nth-child(33):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -440.55s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(33):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -440.55s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(34) {
+  animation-delay: -453.9s;
+}
+.nucleobase:nth-child(34):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -453.9s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(34):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -453.9s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(35) {
+  animation-delay: -467.25s;
+}
+.nucleobase:nth-child(35):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -467.25s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(35):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -467.25s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(36) {
+  animation-delay: -480.6s;
+}
+.nucleobase:nth-child(36):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -480.6s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(36):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -480.6s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(37) {
+  animation-delay: -493.95s;
+}
+.nucleobase:nth-child(37):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -493.95s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(37):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -493.95s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(38) {
+  animation-delay: -507.3s;
+}
+.nucleobase:nth-child(38):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -507.3s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(38):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -507.3s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(39) {
+  animation-delay: -520.65s;
+}
+.nucleobase:nth-child(39):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -520.65s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(39):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -520.65s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(40) {
+  animation-delay: -534s;
+}
+.nucleobase:nth-child(40):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -534s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(40):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -534s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(41) {
+  animation-delay: -547.35s;
+}
+.nucleobase:nth-child(41):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -547.35s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(41):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -547.35s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(42) {
+  animation-delay: -560.7s;
+}
+.nucleobase:nth-child(42):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -560.7s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(42):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -560.7s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(43) {
+  animation-delay: -574.05s;
+}
+.nucleobase:nth-child(43):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -574.05s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(43):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -574.05s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(44) {
+  animation-delay: -587.4s;
+}
+.nucleobase:nth-child(44):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -587.4s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(44):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -587.4s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(45) {
+  animation-delay: -600.75s;
+}
+.nucleobase:nth-child(45):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -600.75s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(45):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -600.75s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(46) {
+  animation-delay: -614.1s;
+}
+.nucleobase:nth-child(46):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -614.1s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(46):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -614.1s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(47) {
+  animation-delay: -627.45s;
+}
+.nucleobase:nth-child(47):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -627.45s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(47):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -627.45s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(48) {
+  animation-delay: -640.8s;
+}
+.nucleobase:nth-child(48):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -640.8s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(48):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -640.8s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(49) {
+  animation-delay: -654.15s;
+}
+.nucleobase:nth-child(49):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -654.15s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(49):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -654.15s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(50) {
+  animation-delay: -667.5s;
+}
+.nucleobase:nth-child(50):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -667.5s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(50):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -667.5s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(51) {
+  animation-delay: -680.85s;
+}
+.nucleobase:nth-child(51):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -680.85s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(51):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -680.85s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(52) {
+  animation-delay: -694.2s;
+}
+.nucleobase:nth-child(52):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -694.2s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(52):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -694.2s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(53) {
+  animation-delay: -707.55s;
+}
+.nucleobase:nth-child(53):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -707.55s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(53):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -707.55s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(54) {
+  animation-delay: -720.9s;
+}
+.nucleobase:nth-child(54):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -720.9s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(54):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -720.9s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(55) {
+  animation-delay: -734.25s;
+}
+.nucleobase:nth-child(55):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -734.25s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(55):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -734.25s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(56) {
+  animation-delay: -747.6s;
+}
+.nucleobase:nth-child(56):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -747.6s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(56):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -747.6s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(57) {
+  animation-delay: -760.95s;
+}
+.nucleobase:nth-child(57):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -760.95s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(57):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -760.95s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(58) {
+  animation-delay: -774.3s;
+}
+.nucleobase:nth-child(58):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -774.3s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(58):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -774.3s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(59) {
+  animation-delay: -787.65s;
+}
+.nucleobase:nth-child(59):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -787.65s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(59):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -787.65s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(60) {
+  animation-delay: -801s;
+}
+.nucleobase:nth-child(60):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -801s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(60):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -801s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(61) {
+  animation-delay: -814.35s;
+}
+.nucleobase:nth-child(61):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -814.35s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(61):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -814.35s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(62) {
+  animation-delay: -827.7s;
+}
+.nucleobase:nth-child(62):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -827.7s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(62):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -827.7s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(63) {
+  animation-delay: -841.05s;
+}
+.nucleobase:nth-child(63):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -841.05s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(63):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -841.05s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(64) {
+  animation-delay: -854.4s;
+}
+.nucleobase:nth-child(64):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -854.4s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(64):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -854.4s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(65) {
+  animation-delay: -867.75s;
+}
+.nucleobase:nth-child(65):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -867.75s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(65):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -867.75s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(66) {
+  animation-delay: -881.1s;
+}
+.nucleobase:nth-child(66):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -881.1s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(66):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -881.1s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(67) {
+  animation-delay: -894.45s;
+}
+.nucleobase:nth-child(67):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -894.45s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(67):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -894.45s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(68) {
+  animation-delay: -907.8s;
+}
+.nucleobase:nth-child(68):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -907.8s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(68):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -907.8s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(69) {
+  animation-delay: -921.15s;
+}
+.nucleobase:nth-child(69):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -921.15s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(69):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -921.15s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(70) {
+  animation-delay: -934.5s;
+}
+.nucleobase:nth-child(70):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -934.5s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(70):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -934.5s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(71) {
+  animation-delay: -947.85s;
+}
+.nucleobase:nth-child(71):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -947.85s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(71):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -947.85s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(72) {
+  animation-delay: -961.2s;
+}
+.nucleobase:nth-child(72):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -961.2s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(72):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -961.2s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(73) {
+  animation-delay: -974.55s;
+}
+.nucleobase:nth-child(73):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -974.55s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(73):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -974.55s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(74) {
+  animation-delay: -987.9s;
+}
+.nucleobase:nth-child(74):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -987.9s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(74):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -987.9s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(75) {
+  animation-delay: -1001.25s;
+}
+.nucleobase:nth-child(75):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1001.25s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(75):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1001.25s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(76) {
+  animation-delay: -1014.6s;
+}
+.nucleobase:nth-child(76):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1014.6s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(76):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1014.6s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(77) {
+  animation-delay: -1027.95s;
+}
+.nucleobase:nth-child(77):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1027.95s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(77):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1027.95s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(78) {
+  animation-delay: -1041.3s;
+}
+.nucleobase:nth-child(78):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1041.3s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(78):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1041.3s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(79) {
+  animation-delay: -1054.65s;
+}
+.nucleobase:nth-child(79):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1054.65s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(79):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1054.65s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(80) {
+  animation-delay: -1068s;
+}
+.nucleobase:nth-child(80):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1068s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(80):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1068s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(81) {
+  animation-delay: -1081.35s;
+}
+.nucleobase:nth-child(81):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1081.35s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(81):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1081.35s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(82) {
+  animation-delay: -1094.7s;
+}
+.nucleobase:nth-child(82):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1094.7s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(82):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1094.7s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(83) {
+  animation-delay: -1108.05s;
+}
+.nucleobase:nth-child(83):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1108.05s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(83):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1108.05s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(84) {
+  animation-delay: -1121.4s;
+}
+.nucleobase:nth-child(84):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1121.4s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(84):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1121.4s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(85) {
+  animation-delay: -1134.75s;
+}
+.nucleobase:nth-child(85):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1134.75s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(85):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1134.75s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(86) {
+  animation-delay: -1148.1s;
+}
+.nucleobase:nth-child(86):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1148.1s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(86):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1148.1s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(87) {
+  animation-delay: -1161.45s;
+}
+.nucleobase:nth-child(87):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1161.45s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(87):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1161.45s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(88) {
+  animation-delay: -1174.8s;
+}
+.nucleobase:nth-child(88):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1174.8s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(88):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1174.8s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(89) {
+  animation-delay: -1188.15s;
+}
+.nucleobase:nth-child(89):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1188.15s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(89):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1188.15s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(90) {
+  animation-delay: -1201.5s;
+}
+.nucleobase:nth-child(90):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1201.5s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(90):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1201.5s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(91) {
+  animation-delay: -1214.85s;
+}
+.nucleobase:nth-child(91):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1214.85s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(91):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1214.85s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(92) {
+  animation-delay: -1228.2s;
+}
+.nucleobase:nth-child(92):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1228.2s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(92):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1228.2s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(93) {
+  animation-delay: -1241.55s;
+}
+.nucleobase:nth-child(93):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1241.55s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(93):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1241.55s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(94) {
+  animation-delay: -1254.9s;
+}
+.nucleobase:nth-child(94):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1254.9s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(94):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1254.9s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(95) {
+  animation-delay: -1268.25s;
+}
+.nucleobase:nth-child(95):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1268.25s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(95):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1268.25s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(96) {
+  animation-delay: -1281.6s;
+}
+.nucleobase:nth-child(96):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1281.6s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(96):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1281.6s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(97) {
+  animation-delay: -1294.95s;
+}
+.nucleobase:nth-child(97):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1294.95s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(97):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1294.95s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(98) {
+  animation-delay: -1308.3s;
+}
+.nucleobase:nth-child(98):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1308.3s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(98):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1308.3s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(99) {
+  animation-delay: -1321.65s;
+}
+.nucleobase:nth-child(99):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1321.65s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(99):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1321.65s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(100) {
+  animation-delay: -1335s;
+}
+.nucleobase:nth-child(100):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1335s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(100):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1335s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(101) {
+  animation-delay: -1348.35s;
+}
+.nucleobase:nth-child(101):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1348.35s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(101):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1348.35s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(102) {
+  animation-delay: -1361.7s;
+}
+.nucleobase:nth-child(102):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1361.7s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(102):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1361.7s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(103) {
+  animation-delay: -1375.05s;
+}
+.nucleobase:nth-child(103):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1375.05s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(103):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1375.05s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(104) {
+  animation-delay: -1388.4s;
+}
+.nucleobase:nth-child(104):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1388.4s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(104):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1388.4s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(105) {
+  animation-delay: -1401.75s;
+}
+.nucleobase:nth-child(105):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1401.75s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(105):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1401.75s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(106) {
+  animation-delay: -1415.1s;
+}
+.nucleobase:nth-child(106):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1415.1s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(106):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1415.1s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(107) {
+  animation-delay: -1428.45s;
+}
+.nucleobase:nth-child(107):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1428.45s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(107):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1428.45s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(108) {
+  animation-delay: -1441.8s;
+}
+.nucleobase:nth-child(108):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1441.8s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(108):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1441.8s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(109) {
+  animation-delay: -1455.15s;
+}
+.nucleobase:nth-child(109):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1455.15s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(109):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1455.15s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(110) {
+  animation-delay: -1468.5s;
+}
+.nucleobase:nth-child(110):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1468.5s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(110):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1468.5s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(111) {
+  animation-delay: -1481.85s;
+}
+.nucleobase:nth-child(111):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1481.85s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(111):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1481.85s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(112) {
+  animation-delay: -1495.2s;
+}
+.nucleobase:nth-child(112):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1495.2s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(112):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1495.2s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(113) {
+  animation-delay: -1508.55s;
+}
+.nucleobase:nth-child(113):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1508.55s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(113):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1508.55s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(114) {
+  animation-delay: -1521.9s;
+}
+.nucleobase:nth-child(114):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1521.9s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(114):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1521.9s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(115) {
+  animation-delay: -1535.25s;
+}
+.nucleobase:nth-child(115):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1535.25s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(115):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1535.25s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(116) {
+  animation-delay: -1548.6s;
+}
+.nucleobase:nth-child(116):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1548.6s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(116):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1548.6s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(117) {
+  animation-delay: -1561.95s;
+}
+.nucleobase:nth-child(117):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1561.95s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(117):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1561.95s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(118) {
+  animation-delay: -1575.3s;
+}
+.nucleobase:nth-child(118):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1575.3s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(118):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1575.3s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(119) {
+  animation-delay: -1588.65s;
+}
+.nucleobase:nth-child(119):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1588.65s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(119):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1588.65s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(120) {
+  animation-delay: -1602s;
+}
+.nucleobase:nth-child(120):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1602s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(120):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1602s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(121) {
+  animation-delay: -1615.35s;
+}
+.nucleobase:nth-child(121):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1615.35s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(121):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1615.35s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(122) {
+  animation-delay: -1628.7s;
+}
+.nucleobase:nth-child(122):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1628.7s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(122):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1628.7s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(123) {
+  animation-delay: -1642.05s;
+}
+.nucleobase:nth-child(123):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1642.05s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(123):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1642.05s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(124) {
+  animation-delay: -1655.4s;
+}
+.nucleobase:nth-child(124):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1655.4s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(124):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1655.4s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(125) {
+  animation-delay: -1668.75s;
+}
+.nucleobase:nth-child(125):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1668.75s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(125):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1668.75s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(126) {
+  animation-delay: -1682.1s;
+}
+.nucleobase:nth-child(126):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1682.1s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(126):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1682.1s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(127) {
+  animation-delay: -1695.45s;
+}
+.nucleobase:nth-child(127):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1695.45s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(127):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1695.45s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(128) {
+  animation-delay: -1708.8s;
+}
+.nucleobase:nth-child(128):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1708.8s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(128):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1708.8s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(129) {
+  animation-delay: -1722.15s;
+}
+.nucleobase:nth-child(129):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1722.15s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(129):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1722.15s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(130) {
+  animation-delay: -1735.5s;
+}
+.nucleobase:nth-child(130):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1735.5s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(130):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1735.5s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(131) {
+  animation-delay: -1748.85s;
+}
+.nucleobase:nth-child(131):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1748.85s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(131):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1748.85s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(132) {
+  animation-delay: -1762.2s;
+}
+.nucleobase:nth-child(132):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1762.2s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(132):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1762.2s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(133) {
+  animation-delay: -1775.55s;
+}
+.nucleobase:nth-child(133):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1775.55s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(133):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1775.55s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(134) {
+  animation-delay: -1788.9s;
+}
+.nucleobase:nth-child(134):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1788.9s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(134):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1788.9s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(135) {
+  animation-delay: -1802.25s;
+}
+.nucleobase:nth-child(135):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1802.25s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(135):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1802.25s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(136) {
+  animation-delay: -1815.6s;
+}
+.nucleobase:nth-child(136):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1815.6s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(136):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1815.6s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(137) {
+  animation-delay: -1828.95s;
+}
+.nucleobase:nth-child(137):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1828.95s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(137):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1828.95s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(138) {
+  animation-delay: -1842.3s;
+}
+.nucleobase:nth-child(138):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1842.3s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(138):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1842.3s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(139) {
+  animation-delay: -1855.65s;
+}
+.nucleobase:nth-child(139):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1855.65s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(139):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1855.65s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(140) {
+  animation-delay: -1869s;
+}
+.nucleobase:nth-child(140):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1869s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(140):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1869s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(141) {
+  animation-delay: -1882.35s;
+}
+.nucleobase:nth-child(141):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1882.35s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(141):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1882.35s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(142) {
+  animation-delay: -1895.7s;
+}
+.nucleobase:nth-child(142):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1895.7s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(142):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1895.7s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(143) {
+  animation-delay: -1909.05s;
+}
+.nucleobase:nth-child(143):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1909.05s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(143):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1909.05s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(144) {
+  animation-delay: -1922.4s;
+}
+.nucleobase:nth-child(144):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1922.4s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(144):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1922.4s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(145) {
+  animation-delay: -1935.75s;
+}
+.nucleobase:nth-child(145):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1935.75s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(145):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1935.75s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(146) {
+  animation-delay: -1949.1s;
+}
+.nucleobase:nth-child(146):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1949.1s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(146):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1949.1s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(147) {
+  animation-delay: -1962.45s;
+}
+.nucleobase:nth-child(147):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1962.45s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(147):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1962.45s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(148) {
+  animation-delay: -1975.8s;
+}
+.nucleobase:nth-child(148):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1975.8s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(148):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1975.8s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(149) {
+  animation-delay: -1989.15s;
+}
+.nucleobase:nth-child(149):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1989.15s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(149):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -1989.15s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(150) {
+  animation-delay: -2002.5s;
+}
+.nucleobase:nth-child(150):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2002.5s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(150):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2002.5s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(151) {
+  animation-delay: -2015.85s;
+}
+.nucleobase:nth-child(151):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2015.85s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(151):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2015.85s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(152) {
+  animation-delay: -2029.2s;
+}
+.nucleobase:nth-child(152):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2029.2s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(152):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2029.2s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(153) {
+  animation-delay: -2042.55s;
+}
+.nucleobase:nth-child(153):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2042.55s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(153):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2042.55s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(154) {
+  animation-delay: -2055.9s;
+}
+.nucleobase:nth-child(154):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2055.9s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(154):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2055.9s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(155) {
+  animation-delay: -2069.25s;
+}
+.nucleobase:nth-child(155):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2069.25s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(155):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2069.25s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(156) {
+  animation-delay: -2082.6s;
+}
+.nucleobase:nth-child(156):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2082.6s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(156):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2082.6s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(157) {
+  animation-delay: -2095.95s;
+}
+.nucleobase:nth-child(157):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2095.95s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(157):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2095.95s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(158) {
+  animation-delay: -2109.3s;
+}
+.nucleobase:nth-child(158):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2109.3s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(158):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2109.3s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(159) {
+  animation-delay: -2122.65s;
+}
+.nucleobase:nth-child(159):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2122.65s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(159):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2122.65s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(160) {
+  animation-delay: -2136s;
+}
+.nucleobase:nth-child(160):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2136s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(160):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2136s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(161) {
+  animation-delay: -2149.35s;
+}
+.nucleobase:nth-child(161):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2149.35s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(161):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2149.35s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(162) {
+  animation-delay: -2162.7s;
+}
+.nucleobase:nth-child(162):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2162.7s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(162):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2162.7s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(163) {
+  animation-delay: -2176.05s;
+}
+.nucleobase:nth-child(163):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2176.05s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(163):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2176.05s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(164) {
+  animation-delay: -2189.4s;
+}
+.nucleobase:nth-child(164):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2189.4s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(164):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2189.4s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(165) {
+  animation-delay: -2202.75s;
+}
+.nucleobase:nth-child(165):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2202.75s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(165):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2202.75s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(166) {
+  animation-delay: -2216.1s;
+}
+.nucleobase:nth-child(166):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2216.1s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(166):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2216.1s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(167) {
+  animation-delay: -2229.45s;
+}
+.nucleobase:nth-child(167):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2229.45s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(167):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2229.45s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(168) {
+  animation-delay: -2242.8s;
+}
+.nucleobase:nth-child(168):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2242.8s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(168):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2242.8s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(169) {
+  animation-delay: -2256.15s;
+}
+.nucleobase:nth-child(169):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2256.15s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(169):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2256.15s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(170) {
+  animation-delay: -2269.5s;
+}
+.nucleobase:nth-child(170):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2269.5s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(170):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2269.5s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(171) {
+  animation-delay: -2282.85s;
+}
+.nucleobase:nth-child(171):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2282.85s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(171):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2282.85s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(172) {
+  animation-delay: -2296.2s;
+}
+.nucleobase:nth-child(172):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2296.2s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(172):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2296.2s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(173) {
+  animation-delay: -2309.55s;
+}
+.nucleobase:nth-child(173):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2309.55s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(173):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2309.55s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(174) {
+  animation-delay: -2322.9s;
+}
+.nucleobase:nth-child(174):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2322.9s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(174):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2322.9s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(175) {
+  animation-delay: -2336.25s;
+}
+.nucleobase:nth-child(175):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2336.25s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(175):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2336.25s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(176) {
+  animation-delay: -2349.6s;
+}
+.nucleobase:nth-child(176):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2349.6s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(176):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2349.6s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(177) {
+  animation-delay: -2362.95s;
+}
+.nucleobase:nth-child(177):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2362.95s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(177):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2362.95s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(178) {
+  animation-delay: -2376.3s;
+}
+.nucleobase:nth-child(178):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2376.3s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(178):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2376.3s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(179) {
+  animation-delay: -2389.65s;
+}
+.nucleobase:nth-child(179):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2389.65s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(179):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2389.65s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(180) {
+  animation-delay: -2403s;
+}
+.nucleobase:nth-child(180):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2403s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(180):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2403s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(181) {
+  animation-delay: -2416.35s;
+}
+.nucleobase:nth-child(181):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2416.35s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(181):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2416.35s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(182) {
+  animation-delay: -2429.7s;
+}
+.nucleobase:nth-child(182):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2429.7s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(182):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2429.7s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(183) {
+  animation-delay: -2443.05s;
+}
+.nucleobase:nth-child(183):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2443.05s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(183):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2443.05s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(184) {
+  animation-delay: -2456.4s;
+}
+.nucleobase:nth-child(184):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2456.4s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(184):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2456.4s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(185) {
+  animation-delay: -2469.75s;
+}
+.nucleobase:nth-child(185):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2469.75s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(185):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2469.75s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(186) {
+  animation-delay: -2483.1s;
+}
+.nucleobase:nth-child(186):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2483.1s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(186):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2483.1s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(187) {
+  animation-delay: -2496.45s;
+}
+.nucleobase:nth-child(187):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2496.45s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(187):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2496.45s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(188) {
+  animation-delay: -2509.8s;
+}
+.nucleobase:nth-child(188):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2509.8s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(188):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2509.8s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(189) {
+  animation-delay: -2523.15s;
+}
+.nucleobase:nth-child(189):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2523.15s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(189):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2523.15s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(190) {
+  animation-delay: -2536.5s;
+}
+.nucleobase:nth-child(190):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2536.5s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(190):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2536.5s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(191) {
+  animation-delay: -2549.85s;
+}
+.nucleobase:nth-child(191):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2549.85s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(191):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2549.85s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(192) {
+  animation-delay: -2563.2s;
+}
+.nucleobase:nth-child(192):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2563.2s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(192):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2563.2s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(193) {
+  animation-delay: -2576.55s;
+}
+.nucleobase:nth-child(193):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2576.55s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(193):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2576.55s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(194) {
+  animation-delay: -2589.9s;
+}
+.nucleobase:nth-child(194):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2589.9s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(194):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2589.9s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(195) {
+  animation-delay: -2603.25s;
+}
+.nucleobase:nth-child(195):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2603.25s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(195):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2603.25s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(196) {
+  animation-delay: -2616.6s;
+}
+.nucleobase:nth-child(196):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2616.6s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(196):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2616.6s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(197) {
+  animation-delay: -2629.95s;
+}
+.nucleobase:nth-child(197):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2629.95s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(197):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2629.95s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(198) {
+  animation-delay: -2643.3s;
+}
+.nucleobase:nth-child(198):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2643.3s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(198):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2643.3s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(199) {
+  animation-delay: -2656.65s;
+}
+.nucleobase:nth-child(199):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2656.65s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(199):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2656.65s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(200) {
+  animation-delay: -2670s;
+}
+.nucleobase:nth-child(200):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2670s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(200):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2670s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(201) {
+  animation-delay: -2683.35s;
+}
+.nucleobase:nth-child(201):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2683.35s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(201):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2683.35s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(202) {
+  animation-delay: -2696.7s;
+}
+.nucleobase:nth-child(202):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2696.7s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(202):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2696.7s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(203) {
+  animation-delay: -2710.05s;
+}
+.nucleobase:nth-child(203):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2710.05s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(203):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2710.05s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(204) {
+  animation-delay: -2723.4s;
+}
+.nucleobase:nth-child(204):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2723.4s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(204):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2723.4s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(205) {
+  animation-delay: -2736.75s;
+}
+.nucleobase:nth-child(205):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2736.75s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(205):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2736.75s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(206) {
+  animation-delay: -2750.1s;
+}
+.nucleobase:nth-child(206):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2750.1s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(206):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2750.1s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(207) {
+  animation-delay: -2763.45s;
+}
+.nucleobase:nth-child(207):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2763.45s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(207):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2763.45s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(208) {
+  animation-delay: -2776.8s;
+}
+.nucleobase:nth-child(208):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2776.8s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(208):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2776.8s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(209) {
+  animation-delay: -2790.15s;
+}
+.nucleobase:nth-child(209):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2790.15s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(209):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2790.15s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(210) {
+  animation-delay: -2803.5s;
+}
+.nucleobase:nth-child(210):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2803.5s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(210):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2803.5s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(211) {
+  animation-delay: -2816.85s;
+}
+.nucleobase:nth-child(211):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2816.85s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(211):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2816.85s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(212) {
+  animation-delay: -2830.2s;
+}
+.nucleobase:nth-child(212):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2830.2s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(212):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2830.2s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(213) {
+  animation-delay: -2843.55s;
+}
+.nucleobase:nth-child(213):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2843.55s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(213):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2843.55s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(214) {
+  animation-delay: -2856.9s;
+}
+.nucleobase:nth-child(214):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2856.9s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(214):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2856.9s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(215) {
+  animation-delay: -2870.25s;
+}
+.nucleobase:nth-child(215):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2870.25s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(215):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2870.25s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(216) {
+  animation-delay: -2883.6s;
+}
+.nucleobase:nth-child(216):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2883.6s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(216):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2883.6s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(217) {
+  animation-delay: -2896.95s;
+}
+.nucleobase:nth-child(217):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2896.95s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(217):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2896.95s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(218) {
+  animation-delay: -2910.3s;
+}
+.nucleobase:nth-child(218):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2910.3s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(218):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2910.3s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(219) {
+  animation-delay: -2923.65s;
+}
+.nucleobase:nth-child(219):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2923.65s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(219):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2923.65s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(220) {
+  animation-delay: -2937s;
+}
+.nucleobase:nth-child(220):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2937s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(220):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2937s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(221) {
+  animation-delay: -2950.35s;
+}
+.nucleobase:nth-child(221):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2950.35s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(221):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2950.35s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(222) {
+  animation-delay: -2963.7s;
+}
+.nucleobase:nth-child(222):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2963.7s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(222):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2963.7s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(223) {
+  animation-delay: -2977.05s;
+}
+.nucleobase:nth-child(223):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2977.05s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(223):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2977.05s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(224) {
+  animation-delay: -2990.4s;
+}
+.nucleobase:nth-child(224):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2990.4s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(224):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -2990.4s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(225) {
+  animation-delay: -3003.75s;
+}
+.nucleobase:nth-child(225):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3003.75s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(225):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3003.75s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(226) {
+  animation-delay: -3017.1s;
+}
+.nucleobase:nth-child(226):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3017.1s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(226):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3017.1s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(227) {
+  animation-delay: -3030.45s;
+}
+.nucleobase:nth-child(227):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3030.45s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(227):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3030.45s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(228) {
+  animation-delay: -3043.8s;
+}
+.nucleobase:nth-child(228):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3043.8s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(228):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3043.8s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(229) {
+  animation-delay: -3057.15s;
+}
+.nucleobase:nth-child(229):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3057.15s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(229):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3057.15s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(230) {
+  animation-delay: -3070.5s;
+}
+.nucleobase:nth-child(230):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3070.5s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(230):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3070.5s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(231) {
+  animation-delay: -3083.85s;
+}
+.nucleobase:nth-child(231):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3083.85s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(231):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3083.85s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(232) {
+  animation-delay: -3097.2s;
+}
+.nucleobase:nth-child(232):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3097.2s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(232):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3097.2s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(233) {
+  animation-delay: -3110.55s;
+}
+.nucleobase:nth-child(233):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3110.55s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(233):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3110.55s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(234) {
+  animation-delay: -3123.9s;
+}
+.nucleobase:nth-child(234):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3123.9s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(234):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3123.9s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(235) {
+  animation-delay: -3137.25s;
+}
+.nucleobase:nth-child(235):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3137.25s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(235):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3137.25s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(236) {
+  animation-delay: -3150.6s;
+}
+.nucleobase:nth-child(236):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3150.6s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(236):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3150.6s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(237) {
+  animation-delay: -3163.95s;
+}
+.nucleobase:nth-child(237):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3163.95s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(237):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3163.95s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(238) {
+  animation-delay: -3177.3s;
+}
+.nucleobase:nth-child(238):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3177.3s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(238):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3177.3s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(239) {
+  animation-delay: -3190.65s;
+}
+.nucleobase:nth-child(239):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3190.65s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(239):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3190.65s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(240) {
+  animation-delay: -3204s;
+}
+.nucleobase:nth-child(240):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3204s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(240):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3204s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(241) {
+  animation-delay: -3217.35s;
+}
+.nucleobase:nth-child(241):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3217.35s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(241):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3217.35s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(242) {
+  animation-delay: -3230.7s;
+}
+.nucleobase:nth-child(242):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3230.7s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(242):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3230.7s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(243) {
+  animation-delay: -3244.05s;
+}
+.nucleobase:nth-child(243):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3244.05s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(243):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3244.05s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(244) {
+  animation-delay: -3257.4s;
+}
+.nucleobase:nth-child(244):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3257.4s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(244):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3257.4s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(245) {
+  animation-delay: -3270.75s;
+}
+.nucleobase:nth-child(245):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3270.75s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(245):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3270.75s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(246) {
+  animation-delay: -3284.1s;
+}
+.nucleobase:nth-child(246):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3284.1s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(246):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3284.1s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(247) {
+  animation-delay: -3297.45s;
+}
+.nucleobase:nth-child(247):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3297.45s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(247):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3297.45s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(248) {
+  animation-delay: -3310.8s;
+}
+.nucleobase:nth-child(248):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3310.8s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(248):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3310.8s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(249) {
+  animation-delay: -3324.15s;
+}
+.nucleobase:nth-child(249):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3324.15s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(249):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3324.15s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(250) {
+  animation-delay: -3337.5s;
+}
+.nucleobase:nth-child(250):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3337.5s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(250):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3337.5s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(251) {
+  animation-delay: -3350.85s;
+}
+.nucleobase:nth-child(251):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3350.85s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(251):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3350.85s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(252) {
+  animation-delay: -3364.2s;
+}
+.nucleobase:nth-child(252):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3364.2s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(252):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3364.2s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(253) {
+  animation-delay: -3377.55s;
+}
+.nucleobase:nth-child(253):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3377.55s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(253):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3377.55s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(254) {
+  animation-delay: -3390.9s;
+}
+.nucleobase:nth-child(254):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3390.9s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(254):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3390.9s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(255) {
+  animation-delay: -3404.25s;
+}
+.nucleobase:nth-child(255):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3404.25s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(255):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3404.25s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(256) {
+  animation-delay: -3417.6s;
+}
+.nucleobase:nth-child(256):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3417.6s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(256):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3417.6s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(257) {
+  animation-delay: -3430.95s;
+}
+.nucleobase:nth-child(257):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3430.95s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(257):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3430.95s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(258) {
+  animation-delay: -3444.3s;
+}
+.nucleobase:nth-child(258):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3444.3s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(258):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3444.3s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(259) {
+  animation-delay: -3457.65s;
+}
+.nucleobase:nth-child(259):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3457.65s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(259):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3457.65s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(260) {
+  animation-delay: -3471s;
+}
+.nucleobase:nth-child(260):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3471s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(260):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3471s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(261) {
+  animation-delay: -3484.35s;
+}
+.nucleobase:nth-child(261):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3484.35s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(261):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3484.35s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(262) {
+  animation-delay: -3497.7s;
+}
+.nucleobase:nth-child(262):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3497.7s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(262):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3497.7s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(263) {
+  animation-delay: -3511.05s;
+}
+.nucleobase:nth-child(263):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3511.05s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(263):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3511.05s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(264) {
+  animation-delay: -3524.4s;
+}
+.nucleobase:nth-child(264):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3524.4s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(264):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3524.4s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(265) {
+  animation-delay: -3537.75s;
+}
+.nucleobase:nth-child(265):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3537.75s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(265):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3537.75s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(266) {
+  animation-delay: -3551.1s;
+}
+.nucleobase:nth-child(266):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3551.1s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(266):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3551.1s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(267) {
+  animation-delay: -3564.45s;
+}
+.nucleobase:nth-child(267):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3564.45s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(267):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3564.45s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(268) {
+  animation-delay: -3577.8s;
+}
+.nucleobase:nth-child(268):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3577.8s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(268):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3577.8s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(269) {
+  animation-delay: -3591.15s;
+}
+.nucleobase:nth-child(269):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3591.15s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(269):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3591.15s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(270) {
+  animation-delay: -3604.5s;
+}
+.nucleobase:nth-child(270):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3604.5s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(270):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3604.5s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(271) {
+  animation-delay: -3617.85s;
+}
+.nucleobase:nth-child(271):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3617.85s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(271):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3617.85s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(272) {
+  animation-delay: -3631.2s;
+}
+.nucleobase:nth-child(272):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3631.2s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(272):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3631.2s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(273) {
+  animation-delay: -3644.55s;
+}
+.nucleobase:nth-child(273):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3644.55s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(273):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3644.55s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(274) {
+  animation-delay: -3657.9s;
+}
+.nucleobase:nth-child(274):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3657.9s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(274):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3657.9s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(275) {
+  animation-delay: -3671.25s;
+}
+.nucleobase:nth-child(275):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3671.25s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(275):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3671.25s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(276) {
+  animation-delay: -3684.6s;
+}
+.nucleobase:nth-child(276):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3684.6s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(276):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3684.6s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(277) {
+  animation-delay: -3697.95s;
+}
+.nucleobase:nth-child(277):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3697.95s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(277):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3697.95s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(278) {
+  animation-delay: -3711.3s;
+}
+.nucleobase:nth-child(278):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3711.3s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(278):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3711.3s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(279) {
+  animation-delay: -3724.65s;
+}
+.nucleobase:nth-child(279):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3724.65s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(279):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3724.65s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(280) {
+  animation-delay: -3738s;
+}
+.nucleobase:nth-child(280):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3738s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(280):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3738s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(281) {
+  animation-delay: -3751.35s;
+}
+.nucleobase:nth-child(281):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3751.35s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(281):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3751.35s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(282) {
+  animation-delay: -3764.7s;
+}
+.nucleobase:nth-child(282):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3764.7s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(282):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3764.7s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(283) {
+  animation-delay: -3778.05s;
+}
+.nucleobase:nth-child(283):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3778.05s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(283):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3778.05s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(284) {
+  animation-delay: -3791.4s;
+}
+.nucleobase:nth-child(284):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3791.4s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(284):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3791.4s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(285) {
+  animation-delay: -3804.75s;
+}
+.nucleobase:nth-child(285):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3804.75s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(285):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3804.75s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(286) {
+  animation-delay: -3818.1s;
+}
+.nucleobase:nth-child(286):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3818.1s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(286):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3818.1s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(287) {
+  animation-delay: -3831.45s;
+}
+.nucleobase:nth-child(287):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3831.45s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(287):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3831.45s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(288) {
+  animation-delay: -3844.8s;
+}
+.nucleobase:nth-child(288):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3844.8s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(288):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3844.8s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(289) {
+  animation-delay: -3858.15s;
+}
+.nucleobase:nth-child(289):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3858.15s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(289):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3858.15s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(290) {
+  animation-delay: -3871.5s;
+}
+.nucleobase:nth-child(290):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3871.5s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(290):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3871.5s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(291) {
+  animation-delay: -3884.85s;
+}
+.nucleobase:nth-child(291):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3884.85s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(291):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3884.85s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(292) {
+  animation-delay: -3898.2s;
+}
+.nucleobase:nth-child(292):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3898.2s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(292):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3898.2s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(293) {
+  animation-delay: -3911.55s;
+}
+.nucleobase:nth-child(293):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3911.55s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(293):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3911.55s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(294) {
+  animation-delay: -3924.9s;
+}
+.nucleobase:nth-child(294):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3924.9s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(294):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3924.9s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(295) {
+  animation-delay: -3938.25s;
+}
+.nucleobase:nth-child(295):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3938.25s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(295):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3938.25s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(296) {
+  animation-delay: -3951.6s;
+}
+.nucleobase:nth-child(296):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3951.6s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(296):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3951.6s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(297) {
+  animation-delay: -3964.95s;
+}
+.nucleobase:nth-child(297):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3964.95s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(297):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3964.95s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(298) {
+  animation-delay: -3978.3s;
+}
+.nucleobase:nth-child(298):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3978.3s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(298):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3978.3s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(299) {
+  animation-delay: -3991.65s;
+}
+.nucleobase:nth-child(299):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3991.65s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(299):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -3991.65s;
+  background-color: rgb(255, 115, 124);
+}
+.nucleobase:nth-child(300) {
+  animation-delay: -4005s;
+}
+.nucleobase:nth-child(300):before {
+  animation: animBefore 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -4005s;
+  background-color: rgb(255, 132, 144);
+}
+.nucleobase:nth-child(300):after {
+  animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
+  animation-delay: -4005s;
+  background-color: rgb(255, 115, 124);
+}
 
 .nucleobase.enlarge {
   transform: scale(1.2);
@@ -538,6 +4049,8 @@ body {
   }
 }
 h1 {
+  margin-top: 0;
+  margin-bottom: 0;
   font-size: 10.85vh;
   font-weight: 900;
   letter-spacing: 0.0425em;
@@ -556,4 +4069,16 @@ h2 {
   color: rgb(255, 50, 155);
   transform: scale(1);
   animation: superscript 2.6s cubic-bezier(0.25, 0, 0.2, 1) forwards;
+}
+
+.about-text {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  max-width: 800px; /* Adjust line length based on design */
+  margin: 0; /* Center the text container */
+}
+
+.about-text p {
+  margin-bottom: 1.5em;
 }/*# sourceMappingURL=index.css.map */

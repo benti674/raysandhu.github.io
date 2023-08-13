@@ -46,7 +46,6 @@ body {
 	flex-direction: column;
 	width: 60%;
 	height: 100%;
-	// padding-left: 5%;
 }
 
 .contact-bar {
@@ -58,8 +57,9 @@ body {
 	display: flex;
 	flex-direction: column;
 	height: 100vh;
-	align-items: center;
+	align-items: start;
 	justify-content: center;
+	padding-left: 2%;
 }
 
 .display-container-image {
@@ -103,7 +103,7 @@ body {
 		transform: scale(1.2); /* Enlarging effect on hover */
 	}
 
-	@for $i from 1 through 30 {
+	@for $i from 1 through 300 {
 		&:nth-child(#{$i}) {
 			animation-delay: $i * ($td * $t);
 			&:before {
@@ -198,6 +198,8 @@ h1 {
 	// left: 0.005em;
 	// top: 7.85vh;
 	// margin-bottom: 50px;
+	margin-top: 0;
+	margin-bottom: 0;
 	font-size: 10.85vh;
 	font-weight: 900;
 	letter-spacing: 0.0425em;
@@ -218,4 +220,16 @@ h2 {
 	transform: scale(1);
 
 	animation: superscript 2.6s cubic-bezier(0.25, 0, 0.2, 1) forwards;
+}
+
+.about-text {
+	font-family: Arial, sans-serif;
+	font-size: 20px;
+	line-height: 1.5;
+	max-width: 800px; /* Adjust line length based on design */
+	margin: 0; /* Center the text container */
+}
+
+.about-text p {
+	margin-bottom: 1.5em;
 }
