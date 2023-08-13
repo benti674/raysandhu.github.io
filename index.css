@@ -7,7 +7,7 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
-  background-color: #d3d3d3;
+  background-color: #fafafa;
   font-family: "Garamond", helvetica neue, helvetica, sans-serif;
 }
 
@@ -18,14 +18,14 @@ body {
 }
 
 .sidebar {
-  width: 25%;
+  width: 22.5%;
   height: 100%;
   position: relative;
   flex: 1;
 }
 
 .vertical-navbar {
-  width: 15%;
+  width: 12.5%;
 }
 
 .main-display {
@@ -33,14 +33,28 @@ body {
   flex-direction: column;
   width: 60%;
   height: 100%;
-  padding-left: 5%;
+}
+
+.contact-bar {
+  width: 5%;
+  background-color: black;
 }
 
 .main-display-container {
   display: flex;
   flex-direction: column;
   height: 100vh;
+  align-items: center;
   justify-content: center;
+}
+
+.display-container-image {
+  margin: 1%;
+  display: block;
+  max-width: 800px;
+  height: auto;
+  border-radius: 50%; /* Make the image circular */
+  overflow: hidden; /* Clip the image to the circular shape */
 }
 
 .DNA_cont {
@@ -524,7 +538,6 @@ body {
   }
 }
 h1 {
-  height: 1em;
   font-size: 10.85vh;
   font-weight: 900;
   letter-spacing: 0.0425em;
@@ -543,8 +556,4 @@ h2 {
   color: rgb(255, 50, 155);
   transform: scale(1);
   animation: superscript 2.6s cubic-bezier(0.25, 0, 0.2, 1) forwards;
-}
-
-p {
-  animation: superscript 5.6s cubic-bezier(0.25, 0, 0.2, 1) forwards;
 }/*# sourceMappingURL=index.css.map */
