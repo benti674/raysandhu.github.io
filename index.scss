@@ -38,7 +38,7 @@ body {
 
 .vertical-navbar {
 	width: 12.5%;
-	// background-color: black;
+	background-color: rgb(1, 1, 1, 0.1);
 }
 
 .main-display {
@@ -50,14 +50,15 @@ body {
 
 .contact-bar {
 	width: 5%;
-	background-color: black;
+	background-color: rgb(1, 1, 1, 0.1);
 }
 
 .main-display-container {
 	display: flex;
 	flex-direction: column;
-	height: 100vh;
-	align-items: start;
+	min-height: 100vh;
+	height: fit-content;
+	align-items: center;
 	justify-content: center;
 	padding-left: 2%;
 }
@@ -120,9 +121,9 @@ body {
 	}
 }
 
-.nucleobase.enlarge {
-	transform: scale(1.2);
-}
+// .nucleobase.enlarge {
+// 	transform: scale(1.2);
+// }
 
 @keyframes animBefore {
 	0% {
@@ -200,7 +201,7 @@ h1 {
 	// margin-bottom: 50px;
 	margin-top: 0;
 	margin-bottom: 0;
-	font-size: 10.85vh;
+	font-size: 9.85vh;
 	font-weight: 900;
 	letter-spacing: 0.0425em;
 	opacity: 0.85;
@@ -232,4 +233,62 @@ h2 {
 
 .about-text p {
 	margin-bottom: 1.5em;
+}
+
+// Card content
+.card {
+	display: flex;
+	background-color: #f5f5f5;
+	border-radius: 8px;
+	padding: 20px;
+	margin: 20px;
+	width: 80%;
+
+	&:hover {
+		border-style: solid;
+		border-width: 2px;
+		border-color: nth($c2_a, 2);
+	}
+}
+
+.card-image {
+	flex: 0 0 33%;
+	padding-right: 20px;
+	margin: auto;
+}
+
+.card-image img {
+	max-width: 100%;
+	height: auto;
+}
+
+.card-content {
+	flex: 1;
+}
+
+.card-title {
+	font-size: 1.8rem;
+	font-weight: 900;
+	margin: 0;
+}
+
+.card-date {
+	font-size: 0.9rem;
+	color: #666;
+	margin: 4px 0;
+}
+
+.card-description {
+	font-size: 1.1rem;
+	line-height: 2rem;
+	margin: 10px 0 0;
+}
+
+.card-container {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: center;
+	padding-left: 10%;
+	margin-top: 5%;
 }

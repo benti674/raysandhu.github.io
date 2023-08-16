@@ -21,20 +21,20 @@
 // }
 
 // Get the elements
-const triggerElement = document.querySelector('intro-bio');
-const animatedElement = document.querySelector('intro-bio');
+// const triggerElement = document.querySelector('intro-bio');
+// const animatedElement = document.querySelector('intro-bio');
 
-// Function to add animation class when scrolled to the trigger element
-function handleScroll() {
-	const triggerPosition = triggerElement.getBoundingClientRect().top;
-	const windowHeight = window.innerHeight;
+// // Function to add animation class when scrolled to the trigger element
+// function handleScroll() {
+// 	const triggerPosition = triggerElement.getBoundingClientRect().top;
+// 	const windowHeight = window.innerHeight;
 
-	if (triggerPosition - windowHeight <= 0) {
-		animatedElement.classList.add('element-animate');
-		// Remove the scroll event listener after triggering the animation
-		window.removeEventListener('scroll', handleScroll);
-	}
-}
+// 	if (triggerPosition - windowHeight <= 0) {
+// 		animatedElement.classList.add('element-animate');
+// 		// Remove the scroll event listener after triggering the animation
+// 		window.removeEventListener('scroll', handleScroll);
+// 	}
+// }
 
-// Add a scroll event listener to trigger the animation when scrolled to the trigger element
-window.addEventListener('scroll', handleScroll);
+// // Add a scroll event listener to trigger the animation when scrolled to the trigger element
+// window.addEventListener('scroll', handleScroll);
