@@ -19,7 +19,6 @@ body {
 	height: 100%;
 	margin: 0;
 	padding: 0;
-	// line-height: 100vh;
 	background-color: #fafafa;
 	font-family: 'Garamond', helvetica neue, helvetica, sans-serif;
 }
@@ -48,11 +47,12 @@ body {
 }
 
 .vertical-navbar h2 {
-	text-align: center; /* Center the text horizontally */
-	margin: 0; /* Remove default margin to prevent extra spacing */
+	text-align: center;
+	margin: 0;
 	height: fit-content;
 	margin-top: 1rem;
 	margin-bottom: 1rem;
+	color: inherit;
 }
 
 .vertical-navbar a {
@@ -63,16 +63,18 @@ body {
 	height: fit-content;
 	border-style: solid;
 	border-radius: 5%;
+	padding: 5%;
 	border-color: rgb(255, 218, 178);
+	color: nth($c2_a, 2);
 
 	&:hover {
 		background-color: rgb(255, 115, 124, 0.2);
-		// border: none;
+		color: white;
 	}
 }
 
 .vertical-navbar a.active {
-	background-color: blanchedalmond; /* Highlight the active menu item */
+	background-color: black; /* Highlight the active menu item */
 }
 
 .main-display {
@@ -89,8 +91,16 @@ body {
 	top: 0;
 	height: 100vh;
 	flex-direction: column;
-	justify-content: space-around;
-	background-color: rgb(1, 1, 1, 0.1);
+	justify-content: center;
+	align-items: center;
+	// background-color: rgb(1, 1, 1, 0.1);
+}
+
+.contact-icon {
+	margin-bottom: 80%;
+	height: 48px;
+	width: auto;
+	border-radius: 5px;
 }
 
 .main-display-container {
@@ -108,7 +118,7 @@ body {
 	display: block;
 	max-width: 800px;
 	height: auto;
-	border-radius: 50%; /* Make the image circular */
+	border-radius: 50%;
 	overflow: hidden; /* Clip the image to the circular shape */
 }
 
@@ -125,8 +135,8 @@ body {
 .nucleobase {
 	position: relative;
 	vertical-align: middle;
-	width: $el-size; /* Adjust as needed */
-	height: $el-size; /* Adjust as needed */
+	width: $el-size;
+	height: $el-size;
 	border-radius: 50%;
 	margin-right: $el-size * 1.7; /* Spacing between nucleobases */
 
@@ -285,11 +295,11 @@ h2 {
 	margin: 20px;
 	width: 80%;
 
-	&:hover {
-		border-style: solid;
-		border-width: 2px;
-		border-color: nth($c2_a, 2);
-	}
+	// &:hover {
+	// border-style: solid;
+	// border-width: 2px;
+	// border-color: nth($c2_a, 2);
+	// }
 }
 
 .card-image {
