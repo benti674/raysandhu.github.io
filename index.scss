@@ -4,8 +4,8 @@ $DNA_scale: 0.45; //divides '$el-size'
 $t: 15s;
 $td: -0.89;
 
-$c_a: rgb(255, 132, 144) rgb(255, 115, 124) rgb(245, 247, 249); // top / bottom / BG
-$c2_a: rgb(255, 218, 178) rgb(255, 50, 155); // Fade-anim colors
+$c_a: rgb(65, 105, 225) rgb(25, 25, 112) rgb(230, 230, 250); // top / bottom / BG
+$c2_a: rgb(230, 230, 250) rgb(148, 0, 211); // Lavender colors
 
 $ease-circ: cubic-bezier(0.42, 0, 0.58, 1);
 
@@ -64,11 +64,11 @@ body {
 	border-style: solid;
 	border-radius: 5%;
 	padding: 5%;
-	border-color: rgb(255, 218, 178);
-	color: nth($c2_a, 2);
+	border-color: rgb(230, 230, 250, 0.8);
+	color: nth($c_a, 1);
 
 	&:hover {
-		background-color: rgb(255, 115, 124, 0.2);
+		background-color: nth($c_a, 1);
 		color: white;
 	}
 }
@@ -112,6 +112,7 @@ body {
 	align-items: center;
 	justify-content: center;
 	padding-left: 2%;
+	margin-bottom: 5%;
 }
 
 .display-container-image {
@@ -245,21 +246,20 @@ body {
 }
 
 h1 {
-	// height: 1em;
-	// width: 100%;
-	// left: 0.005em;
-	// top: 7.85vh;
-	// margin-bottom: 50px;
 	margin-top: 0;
 	margin-bottom: 0;
-	font-size: 9.85vh;
+	font-size: 7.85vh;
 	font-weight: 900;
 	letter-spacing: 0.0425em;
 	opacity: 0.85;
-	color: nth($c2_a, 2);
-	transform: scale(1);
+	color: nth($c_a, 1);
 
 	animation: superscript 1.6s cubic-bezier(0.25, 0, 0.2, 1) forwards;
+}
+
+.title-name {
+	font-size: 9.85vh;
+	color: nth($c_a, 2);
 }
 
 h2 {
@@ -268,7 +268,7 @@ h2 {
 	font-weight: 600;
 	letter-spacing: 0.0225em;
 	opacity: 0.85;
-	color: nth($c2_a, 2);
+	color: nth($c_a, 1);
 	transform: scale(1);
 
 	animation: superscript 2.6s cubic-bezier(0.25, 0, 0.2, 1) forwards;
