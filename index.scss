@@ -20,7 +20,7 @@ body {
 	margin: 0;
 	padding: 0;
 	background-color: #fafafa;
-	font-family: Garamond, helvetica neue, helvetica, sans-serif;
+	font-family: Garamond, 'Times New Roman', Times, serif;
 }
 
 .page-layout {
@@ -179,9 +179,9 @@ a {
 	}
 }
 
-// .nucleobase.enlarge {
-// 	transform: scale(1.2);
-// }
+.nucleobase.enlarge {
+	transform: scale(1.2);
+}
 
 @keyframes animBefore {
 	0% {

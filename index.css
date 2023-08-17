@@ -9,7 +9,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #fafafa;
-  font-family: Garamond, helvetica neue, helvetica, sans-serif;
+  font-family: Garamond, "Times New Roman", Times, serif;
 }
 
 .page-layout {
@@ -4048,6 +4048,10 @@ a {
   animation: animAfter 15s cubic-bezier(0.42, 0, 0.58, 1) infinite;
   animation-delay: -4005s;
   background-color: rgb(25, 25, 112);
+}
+
+.nucleobase.enlarge {
+  transform: scale(1.2);
 }
 
 @keyframes animBefore {
