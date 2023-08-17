@@ -15,7 +15,7 @@ body {
 .page-layout {
   display: flex;
   flex-direction: row;
-  height: 800vh;
+  height: 900vh;
 }
 
 .dna-bar {
@@ -43,6 +43,11 @@ body {
   margin-top: 1rem;
   margin-bottom: 1rem;
   color: inherit;
+}
+
+a {
+  text-decoration: none;
+  color: black;
 }
 
 .vertical-navbar a {
@@ -4146,6 +4151,18 @@ h2 {
   padding: 20px;
   margin: 20px;
   width: 80%;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(148, 0, 211);
+}
+
+.clickable-card {
+  border-style: solid;
+  border-width: 3px;
+  border-color: #fafafa;
+}
+.clickable-card:hover {
+  border-color: rgb(148, 0, 211);
 }
 
 .card-image {
@@ -4204,7 +4221,7 @@ h2 {
   width: auto;
   height: 60px;
   margin-right: 30px;
-  animation: scrollLogos 4s linear infinite; /* Adjust animation duration */
+  animation: scrollLogos 6s linear infinite; /* Adjust animation duration */
 }
 
 .logo img {
