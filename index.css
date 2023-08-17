@@ -69,7 +69,8 @@ a {
 }
 
 .vertical-navbar a.active {
-  background-color: black; /* Highlight the active menu item */
+  background-color: rgb(65, 105, 225);
+  color: white;
 }
 
 .main-display {

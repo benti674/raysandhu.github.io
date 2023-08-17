@@ -79,7 +79,8 @@ a {
 }
 
 .vertical-navbar a.active {
-	background-color: black; /* Highlight the active menu item */
+	background-color: nth($c_a, 1);
+	color: white;
 }
 
 .main-display {

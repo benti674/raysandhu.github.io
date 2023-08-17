@@ -39,18 +39,19 @@
 // // Add a scroll event listener to trigger the animation when scrolled to the trigger element
 // window.addEventListener('scroll', handleScroll);
 
-const sections = document.querySelectorAll('section');
+const sections = document.querySelectorAll('.main-display-container');
 const navLinks = document.querySelectorAll('.vertical-navbar a');
 
 function highlightMenuItem() {
 	sections.forEach((section, index) => {
+		// console.log(section);
 		const top = section.offsetTop;
 		const bottom = top + section.offsetHeight;
 
 		if (window.scrollY >= top && window.scrollY < bottom) {
 			navLinks.forEach((link) => link.classList.remove('active'));
 			navLinks[index].classList.add('active');
-			console.log(navLinks[index]);
+			// console.log(navLinks[index]);
 		}
 	});
 }
