@@ -4123,7 +4123,6 @@ h2 {
   letter-spacing: 0.0225em;
   opacity: 0.85;
   color: rgb(65, 105, 225);
-  transform: scale(1);
   animation: superscript 2.6s cubic-bezier(0.25, 0, 0.2, 1) forwards;
 }
 
@@ -4205,7 +4204,7 @@ h2 {
   width: auto;
   height: 60px;
   margin-right: 30px;
-  animation: scrollLogos 2.5s linear infinite; /* Adjust animation duration */
+  animation: scrollLogos 4s linear infinite; /* Adjust animation duration */
 }
 
 .logo img {
