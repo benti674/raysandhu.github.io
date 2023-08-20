@@ -291,7 +291,7 @@ h1 {
 }
 
 .title-name {
-	font-size: 9.85vh;
+	// font-size: 9.85vh;
 	color: nth($c_a, 2);
 }
 
@@ -304,6 +304,9 @@ h2 {
 	color: nth($c_a, 1);
 
 	animation: superscript 2.6s cubic-bezier(0.25, 0, 0.2, 1) forwards;
+	@media (max-width: 768px) {
+		font-size: 2vh;
+	}
 }
 
 .about-text {

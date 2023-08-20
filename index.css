@@ -4158,7 +4158,6 @@ h1 {
 }
 
 .title-name {
-  font-size: 9.85vh;
   color: rgb(25, 25, 112);
 }
 
@@ -4170,6 +4169,11 @@ h2 {
   opacity: 0.85;
   color: rgb(65, 105, 225);
   animation: superscript 2.6s cubic-bezier(0.25, 0, 0.2, 1) forwards;
+}
+@media (max-width: 768px) {
+  h2 {
+    font-size: 2vh;
+  }
 }
 
 .about-text {
