@@ -29,7 +29,7 @@ function highlightMenuItem(index) {
 
 function setActiveSection() {
 	sections.forEach((section, index) => {
-		const top = section.offsetTop;
+		const top = section.offsetTop - 20;
 		const bottom = top + section.offsetHeight;
 
 		if (window.scrollY >= top && window.scrollY < bottom) {
