@@ -22,16 +22,36 @@
 const sections = document.querySelectorAll('.main-display-container');
 const navLinks = document.querySelectorAll('.vertical-navbar a');
 
-function highlightMenuItem() {
+function highlightMenuItem(index) {
+	navLinks.forEach((link) => link.classList.remove('active'));
+	navLinks[index].classList.add('active');
+}
+
+function setActiveSection() {
 	sections.forEach((section, index) => {
 		const top = section.offsetTop;
 		const bottom = top + section.offsetHeight;
 
 		if (window.scrollY >= top && window.scrollY < bottom) {
-			navLinks.forEach((link) => link.classList.remove('active'));
-			navLinks[index].classList.add('active');
+			highlightMenuItem(index);
 		}
 	});
 }
 
-window.addEventListener('scroll', highlightMenuItem);
+function handleNavLinkClick(event) {
+	event.preventDefault();
+	const targetId = event.currentTarget.getAttribute('href');
+	const targetSection = document.querySelector(targetId);
+	const index = [...sections].indexOf(targetSection);
+
+	if (index !== -1) {
+		highlightMenuItem(index);
+		targetSection.scrollIntoView({ behavior: 'smooth' });
+	}
+}
+
+window.addEventListener('scroll', setActiveSection);
+
+navLinks.forEach((link) => {
+	link.addEventListener('click', handleNavLinkClick);
+});
