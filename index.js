@@ -28,11 +28,13 @@ function highlightMenuItem(index) {
 }
 
 function setActiveSection() {
+	let scrollPosition = window.scrollY;
+
 	sections.forEach((section, index) => {
 		const top = section.offsetTop - 20;
 		const bottom = top + section.offsetHeight;
 
-		if (window.scrollY >= top && window.scrollY < bottom) {
+		if (scrollPosition >= top && scrollPosition < bottom) {
 			highlightMenuItem(index);
 		}
 	});
@@ -46,11 +48,21 @@ function handleNavLinkClick(event) {
 
 	if (index !== -1) {
 		highlightMenuItem(index);
-		targetSection.scrollIntoView({ behavior: 'smooth' });
+
+		// Instead of scrollIntoView(), use window.scrollTo() for better control
+		const yOffset = targetSection.getBoundingClientRect().top + window.scrollY;
+		window.scrollTo({ top: yOffset, behavior: 'smooth' });
+
+		// Ensure the scroll event still fires after the smooth scroll
+		setTimeout(setActiveSection, 600);
 	}
 }
 
-window.addEventListener('scroll', setActiveSection);
+// Ensure mobile browsers re-detect the active section when scrolling
+window.addEventListener('scroll', setActiveSection, { passive: true });
+
+// Fix for mobile touch behavior not triggering updates
+window.addEventListener('touchmove', setActiveSection, { passive: true });
 
 navLinks.forEach((link) => {
 	link.addEventListener('click', handleNavLinkClick);
